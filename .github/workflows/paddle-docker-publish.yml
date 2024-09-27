@@ -1,4 +1,4 @@
-name: PaddleServer Docker Publisher
+name: Sklearnserver Docker Publisher
 
 on:
   push:
